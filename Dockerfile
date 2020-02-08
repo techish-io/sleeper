@@ -1,2 +1,2 @@
-FROM Ubuntu
+FROM ubuntu
 CMD sleep 5
